@@ -19,7 +19,7 @@ There are certains tools require to use so that your work become easy.
  1. We use [Spring MVC](http://spring.io/projects/spring-framework) framework in our developing process.
  1. Languages used for User Interface are HTML, Jquery and CSS, you can get all these from [W3 Schools](https://www.w3schools.com/)
  
-## Recommended Resources
+## Recommended Sources
  
  Following are some of resources that you can look into for better understanding
  
