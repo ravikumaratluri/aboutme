@@ -1,4 +1,3 @@
-# Ravi Kumar Atluri
 
 ## Repository Links
 
@@ -7,5 +6,5 @@
 
 ## About
 
-This repository is about introducing my profile to all. I am Ravi Kumar Atluri who is working on master of applied computer science. 
+This repository is used to develop web services using spring framework. Although there are several types of web services available, we focus mainly on RESTful web service, which is widely used in today industry market.
 
