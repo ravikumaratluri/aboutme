@@ -19,7 +19,7 @@ There are certains tools require to use so that your work become easy.
  1. We use [Spring MVC](http://spring.io/projects/spring-framework) framework in our developing process.
  1. Languages used for User Interface are HTML, Jquery and CSS, you can get all these from [W3 Schools](https://www.w3schools.com/)
  
- ## Recommended Resources
+## Recommended Resources
  
  Following are some of resources that you can look into for better understanding
  
@@ -27,7 +27,7 @@ There are certains tools require to use so that your work become easy.
  1. All technologies are available in [Tutorial Point](https://www.tutorialspoint.com/) 
  1. For Data Management [Study Tonight](https://www.studytonight.com/data-structures/) is good one.
  
- ## Contributors
+## Contributors
  
  Ravi Kumar Aturi working on Master in Applied Computer Science
  ![Hosted image](http://thenewleam.com/wp-content/uploads/2018/09/8122f869e3f242a35293d0bf94330e12.jpg "Crop")
